@@ -1,1 +1,3 @@
 #All of your code goes below this comment...
+def main():
+    print("Hello World")
